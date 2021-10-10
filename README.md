@@ -15,8 +15,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhakarydv" alt="prabhakarydv" /></a></p>
 
 
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhakarydv&show_icons=true&locale=en&layout=compact&theme=radical" alt="prabhakarydv" />
 
 ![Prabhakar's github stats](https://github-readme-stats.vercel.app/api?username=PrabhakarYdv&show_icons=true&theme=radical)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhakarydv&show_icons=true&locale=en&layout=compact" alt="prabhakarydv" />
