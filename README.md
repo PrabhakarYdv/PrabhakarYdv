@@ -20,6 +20,6 @@
 
 ![Prabhakar's github stats](https://github-readme-stats.vercel.app/api?username=PrabhakarYdv&show_icons=true&theme=radical&locale=en)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhakarydv&show_icons=true&locale=en&layout=compact&theme=radical" alt="prabhakarydv" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhakarydv&show_icons=true&locale=en&layout=compact&theme=radical" alt="prabhakarydv" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhakarydv&" alt="prabhakarydv" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhakarydv&theme=radical" alt="prabhakarydv" /></p>
