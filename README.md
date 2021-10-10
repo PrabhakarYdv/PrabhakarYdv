@@ -16,6 +16,7 @@
 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhakarydv&show_icons=true&locale=en&layout=compact" alt="prabhakarydv" />
 
 ![Prabhakar's github stats](https://github-readme-stats.vercel.app/api?username=PrabhakarYdv&show_icons=true&theme=radical)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhakarydv&show_icons=true&locale=en&layout=compact" alt="prabhakarydv" />
