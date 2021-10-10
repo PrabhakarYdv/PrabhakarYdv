@@ -1,15 +1,15 @@
-### Hi there 👋
+﻿### Hi there 👋
 
-<!--
-**PrabhakarYdv/PrabhakarYdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A Passionate Android Developer Trained & Skilled at MASAI School, who loves to develop and design Android Apps.A team player, good at designing a Professional App. I work efficiently with others and maintain good interpersonal relationships.Looking for an opportunity where I can contribute and enhance my skills.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Android Development.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m a Full-Stack Android Developer.
+- 🌱 I’m Trained & Skilled from Masai School as a Full-Stack Android Developer.
+- 👯 I’m looking Android Developer Job.
+- 💬 I’m from Munger, Bihar India.
+- 📫 My Email ID is (prabhakarkr802@gmail.com) contact no (+91 6206950235).
+- ⚡ Take a look of my portfolio and resume for more information here..(https://prabhakarydv.github.io/Portfolio/).
+
+
+
+![Prabhakar's github stats](https://github-readme-stats.vercel.app/api?username=PrabhakarYdv&show_icons=true&theme=radical)
