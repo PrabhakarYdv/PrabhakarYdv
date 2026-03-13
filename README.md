@@ -1,6 +1,6 @@
 ﻿### Hi there 👋
 
-### A Passionate Android Developer Trained & Skilled at MASAI School, who loves to develop and design Android Apps. A team player, good at designing a Professional App. I work efficiently with others and maintain good interpersonal relationships. Looking for an opportunity where I can contribute and enhance my skills.
+### A Passionate Frontend & Android developer who enjoys turning ideas into real products, Trained & Skilled at MASAI School, I love to develop and design Android & Web Apps. I like exploring new tools, improving code quality, and solving practical problems through software. Always learning and building. A team player, good at designing a Professional App. I work efficiently with others and maintain good interpersonal relationships. Looking for an opportunity where I can contribute and enhance my skills.
 
 
 
